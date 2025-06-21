@@ -1,2 +1,4 @@
 .env
 read.txt
+__pycache__/
+*.pyc
